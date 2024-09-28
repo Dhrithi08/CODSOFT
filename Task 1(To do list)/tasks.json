@@ -1,1 +1,1 @@
-[{"task": "Internship", "completed": false, "priority": "Low"}, {"task": "python", "completed": false, "priority": "Low"}, {"task": "workshop", "completed": false, "priority": "High"}, {"task": "Assignment", "completed": true, "priority": "Medium"}]
+[{"task": "internship", "completed": true, "priority": "Medium"}, {"task": "python project", "completed": false, "priority": "Medium"}, {"task": "Internship", "completed": false, "priority": "High"}, {"task": "jfugj", "completed": false, "priority": "High"}]
